@@ -19,7 +19,6 @@
         "dist"
     ],
     "dependencies": {
-        "@elizaos/core": "workspace:*"
     },
     "devDependencies": {
         "@biomejs/biome": "1.9.4",
