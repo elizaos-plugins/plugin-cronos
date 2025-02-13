@@ -1,5 +1,5 @@
 {
-    "name": "@elizaos/plugin-cronos",
+    "name": "@elizaos-plugins/plugin-cronos",
     "version": "0.1.9",
     "type": "module",
     "main": "dist/index.js",
@@ -18,8 +18,7 @@
     "files": [
         "dist"
     ],
-    "dependencies": {
-    },
+    "dependencies": {},
     "devDependencies": {
         "@biomejs/biome": "1.9.4",
         "tsup": "8.3.5",
