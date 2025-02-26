@@ -36,5 +36,16 @@
     },
     "peerDependencies": {
         "whatwg-url": "7.1.0"
+    },
+    "agentConfig": {
+        "pluginType": "elizaos:client:1.0.0",
+        "pluginParameters": {
+            "CRONOS_PRIVATE_KEY": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Wallet private key (Required, must start with 0x)",
+                "optional": false
+            }
+        }
     }
 }
